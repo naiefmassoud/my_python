@@ -12,4 +12,4 @@ for roots, dirs, files in os.walk(my_path):
   #for dir in dirs:
     #print("Directories: " + dir)
   for file in files:
-    print("Files: " + file)  
+    print("Files: " + file)
